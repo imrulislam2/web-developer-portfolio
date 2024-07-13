@@ -186,66 +186,64 @@ main {
 .skill {
     padding: 30px;
     border-radius: 5px;
-    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06); 
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
 
 /* resume style */
 
-.resume-container{
+.resume-container {
     display: flex;
     gap: 70px;
 }
 
-.experience-title{
+.experience-title {
     font-size: 25px;
 }
 
-.experience-subtitle{
+.experience-subtitle {
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 20px;
 }
 
-.experience-description{
+.experience-description {
     color: #757575;
     font-size: 16px;
 }
 
-.resume hr{
+.resume hr {
     margin: 30px 50px;
 }
 
-.resume-column-title{
+.resume-column-title {
     font-size: 30px;
     font-weight: 700;
 }
 
-.download-cv{
+.download-cv {
     margin-top: 50px;
 }
 
 /* footer style */
 
-footer{
+footer {
     padding: 130px 230px;
     display: flex;
     gap: 100px;
 }
 
-.footer-column{
+.footer-column {
     width: 50%;
 }
 
-footer input{
-    padding: 18px 150px 18px 30px ;
+footer input {
+    padding: 18px 150px 18px 30px;
     margin-bottom: 30px;
     border: none;
 }
 
-footer textarea{
+footer textarea {
     border: none;
     padding: 18px 100px 18px 30px;
     margin-bottom: 30px;
 }
-
-
